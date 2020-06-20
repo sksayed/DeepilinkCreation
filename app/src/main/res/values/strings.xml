@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestingDeepLink</string>
+    <string name="sayed">
+        <a href="https://sayed.page.link/secondPage">Click To this Link</a>
+    </string>
+
+    <string name="delisense">
+        <a href="https://dailysense.page.link/order"> DelisenseLink</a>
+    </string>
+</resources>
